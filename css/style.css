@@ -1,0 +1,122 @@
+header{
+    text-align: center;
+}
+
+container{
+    max-width: 100%;
+}
+
+.body{
+	overflow-x:hidden;
+}
+#kopce1{
+    color: white;
+    background: darkgrey;
+    border-color: darkgrey;
+    border-radius: 0;
+}
+
+#kopce2{
+    border-radius: 0;
+}
+
+#kopce3{
+    color: white;
+    background: darkgrey;
+    border-color: darkgrey;
+    border-radius: 0;
+}
+
+div.caption{
+    width: 100%;
+    bottom: 45%;
+    position: absolute;
+}
+
+div.caption1{
+    text-align: center;
+    color: white;
+    width: 100%;
+    bottom: 40%;
+    position: absolute;
+}
+
+hr.star-primary{
+    max-width: 65px;
+}
+
+#services{
+    background-color: rgb(51, 122, 183);
+    color: white;
+    padding-top: 30px;
+	padding-bottom:30px;
+}
+
+#abuttons{
+    background-color: rgb(51, 122, 183);
+    color: white;
+    padding-top: 30px;
+	padding-bottom:30px;
+}
+
+.glyphicon-ring {
+    border-radius: 50% !important;
+    width: 70px;
+    height: 70px;
+    display: inline-table;
+    text-align: center;
+}
+
+.glyphicon-ring .glyphicon-bordered {
+    font-size: 35px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.glyphicon-white {
+    background: white;
+    color: #428bca;
+}
+
+div.thumbnail{
+    border: 0 none;
+}
+
+#tnails{
+    text-align: center;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+#kopce4{
+    margin-right: 20px;
+    border-radius: 0;
+    border-color: white;
+}
+
+#kopce5{
+    border-radius: 0;
+    color: white;
+    background: #2e6da4;
+    margin-left: 10px;
+    border-color: #2e6da4;
+}
+
+#mapata{
+    height: 100%;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#footer{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.finkiEmail {
+    color: #2e6da4;
+}
+
+#glifi{
+    margin-bottom: 30px;
+}
